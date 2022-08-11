@@ -52,7 +52,6 @@ p {
     font-family: Helvetica, Tahoma, Verdana, sans-serif;
     line-height: 1.5em;
     padding: 0px;
-    margin:;
 }
 
 a, a:visited {
@@ -84,24 +83,6 @@ h3:hover {
     max-width: 1500px;
     border: solid 3px rgb(104,17,56);
 }
-
-/*
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-li {
-    padding-left: 14px;
-}
-
-li::before {
-    content:;
-    padding-right: 7px;
-    color: rgb(104,17,56);
-}
-*/
 
 nav {
     font-size: 1.5em;
@@ -170,6 +151,10 @@ nav {
     float: left;
     width: 65%;
     text-align: justify;
+}
+
+.dragonlore_description a {
+    font-weight: bold;
 }
 
 .dragon_pic {
