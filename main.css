@@ -167,8 +167,9 @@ nav {
 }
 
 #meetOurMages {
-    display: inline-block;
-    margin-left: 6.65em;
+    display: table;
+    padding: 1.5em;
+    max-width: 1500px;
 }
 
 .profile_pic {
